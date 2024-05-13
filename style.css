@@ -238,8 +238,8 @@ body {
 .home-imgHover {
     position: absolute;
     top: 0;
-    right: 60px;
-    width: 570px;
+    right: 50px;
+    width: 600px;
     height: 100%;
     background: transparent;
     transition: 3s;
